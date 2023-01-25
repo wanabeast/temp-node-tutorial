@@ -1,0 +1,13 @@
+Hello, budding beast
+ Here is the result: Hello this is the first text file. What's  up my guy?,
+Hello this is the second text file.
+What's cooking?
+
+Hello, budding beast
+ Here is the result: Hello this is the first text file. What's  up my guy?,
+Hello this is the second text file.
+What's cooking?
+
+Here is the result : Hello this is the first text file. What's  up my guy?, Hello this is the second text file.
+What's cooking?
+
